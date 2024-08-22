@@ -1,4 +1,4 @@
-Proyecto: Encriptador de Texto
+<h1>Proyecto: Encriptador de Texto</h1>
 
 Este proyecto es un simple encriptador de texto, desarrollado con HTML, CSS y JavaScript, que
 permite encriptar y desencriptar mensajes de acuerdo con reglas específicas.
