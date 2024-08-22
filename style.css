@@ -91,7 +91,15 @@ main{
     color: #495057;
     font-size: 15px;
     margin-bottom: 1px;
-    margin-left: 8px;
+    margin-left: 1px;
+    margin-top: 48px;
+    height: 30px;
+}
+#Signo{
+    margin-top: 63.5px;
+}
+#caja{
+    display: flex;
 }
 
 
